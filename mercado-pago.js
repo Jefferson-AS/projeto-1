@@ -1,3 +1,3 @@
 const m = 'mercado-pago'
-const t='devedor'
+const p='devedor'
 console.log('m')
